@@ -1,0 +1,2 @@
+1.git version -->gives git version
+2.git config --list --show-origin   -->gives configuration details  
